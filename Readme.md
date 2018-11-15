@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/OpenStreetMapLesson/MainPage.xaml) (VB: [MainPage.xaml](./VB/OpenStreetMapLesson/MainPage.xaml))
+<!-- default file list end -->
 # How to: Use the OpenStreetMapDataProvider
 
 
